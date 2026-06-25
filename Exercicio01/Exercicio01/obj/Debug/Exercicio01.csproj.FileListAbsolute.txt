@@ -1,0 +1,6 @@
+D:\Matheus\Curso\EXERCICIOS\Vetores\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe.config
+D:\Matheus\Curso\EXERCICIOS\Vetores\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe
+D:\Matheus\Curso\EXERCICIOS\Vetores\Exercicio01\Exercicio01\bin\Debug\Exercicio01.pdb
+D:\Matheus\Curso\EXERCICIOS\Vetores\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csprojResolveAssemblyReference.cache
+D:\Matheus\Curso\EXERCICIOS\Vetores\Exercicio01\Exercicio01\obj\Debug\Exercicio01.exe
+D:\Matheus\Curso\EXERCICIOS\Vetores\Exercicio01\Exercicio01\obj\Debug\Exercicio01.pdb

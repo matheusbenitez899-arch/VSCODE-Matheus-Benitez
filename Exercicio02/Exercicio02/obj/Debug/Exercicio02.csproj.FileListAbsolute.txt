@@ -1,0 +1,5 @@
+D:\Matheus\Curso\EXERCICIOS\Vetores\Exercicio02\Exercicio02\bin\Debug\Exercicio02.exe.config
+D:\Matheus\Curso\EXERCICIOS\Vetores\Exercicio02\Exercicio02\bin\Debug\Exercicio02.exe
+D:\Matheus\Curso\EXERCICIOS\Vetores\Exercicio02\Exercicio02\bin\Debug\Exercicio02.pdb
+D:\Matheus\Curso\EXERCICIOS\Vetores\Exercicio02\Exercicio02\obj\Debug\Exercicio02.exe
+D:\Matheus\Curso\EXERCICIOS\Vetores\Exercicio02\Exercicio02\obj\Debug\Exercicio02.pdb
